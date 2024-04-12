@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Creating a virtual environment"
-python3.9 -m virtualenv .
+python3.9
 # virtualenv env
 echo "Activating the env"
 source bin/activate
